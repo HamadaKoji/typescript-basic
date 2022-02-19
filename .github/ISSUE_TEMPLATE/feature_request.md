@@ -1,11 +1,11 @@
 ---
 name: Feature request
-about: Create a feature request
+about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
 
----## Purpose
+---
 
 ## Goal
 
@@ -19,4 +19,3 @@ assignees: ''
 
 
 ## Remarks
-
